@@ -1,0 +1,3 @@
+- Run it with: bash run_interface.sh
+- This script is compatible only with os x due to the osascript usage.
+- You can run it on others GNU operating systems with 'bash main.sh' but you will encounter some display problems due to the non-resize of the window.
